@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C2FAD666-5D38-464C-BC66-B909DA86221F}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NicestAppEver" expanded="True">
+            <Node name="NicestAppEver" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NicestAppEver.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BA5ADD9C-0226-469B-B1B8-AD753C61B77D" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NicestAppEver.Mac PreferredExecutionTarget="Test1" />
+  <DisabledProjects>
+    <String>NicestAppEver.Android/NicestAppEver.Android.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

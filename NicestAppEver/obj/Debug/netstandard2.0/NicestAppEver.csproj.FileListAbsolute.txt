@@ -1,0 +1,12 @@
+/Users/petrulutenco/Projects/NicestAppEver/NicestAppEver/obj/Debug/netstandard2.0/NicestAppEver.csprojAssemblyReference.cache
+/Users/petrulutenco/Projects/NicestAppEver/NicestAppEver/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/petrulutenco/Projects/NicestAppEver/NicestAppEver/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/petrulutenco/Projects/NicestAppEver/NicestAppEver/obj/Debug/netstandard2.0/NicestAppEver.csproj.CoreCompileInputs.cache
+/Users/petrulutenco/Projects/NicestAppEver/NicestAppEver/obj/Debug/netstandard2.0/NicestAppEver.AssemblyInfoInputs.cache
+/Users/petrulutenco/Projects/NicestAppEver/NicestAppEver/obj/Debug/netstandard2.0/NicestAppEver.AssemblyInfo.cs
+/Users/petrulutenco/Projects/NicestAppEver/NicestAppEver/obj/Debug/netstandard2.0/NicestAppEver.dll
+/Users/petrulutenco/Projects/NicestAppEver/NicestAppEver/obj/Debug/netstandard2.0/NicestAppEver.pdb
+/Users/petrulutenco/Projects/NicestAppEver/NicestAppEver/bin/Debug/netstandard2.0/NicestAppEver.deps.json
+/Users/petrulutenco/Projects/NicestAppEver/NicestAppEver/bin/Debug/netstandard2.0/NicestAppEver.dll
+/Users/petrulutenco/Projects/NicestAppEver/NicestAppEver/bin/Debug/netstandard2.0/NicestAppEver.pdb
+/Users/petrulutenco/Projects/NicestAppEver/NicestAppEver/obj/Debug/netstandard2.0/XamlC.stamp
